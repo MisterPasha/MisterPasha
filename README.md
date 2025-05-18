@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Human Activity Recognition using IMU sensors**
 
-- 🌱 I’m currently learning **professional Data Visualisation**
+- 🌱 I’m currently learning **CI/CD Pipelines and Data Architecture**
 
 - 👯 I’m looking to collaborate on **projects involving medical data**
 
