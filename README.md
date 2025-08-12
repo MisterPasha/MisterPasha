@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MLOps and Data Engineering**
 
-- 👯 I’m looking to collaborate on **projects involving medical data**
+- 👯 I’m looking to collaborate on **LLM and MLOps projects, or projects involving medical data**
 
 - 💬 Ask me about **numpy/PyTorch/TensorFlow, IoT**
 
