@@ -3,7 +3,7 @@
 <p align="center">🍓 A proud Raspberry Pi enthusiast, I enjoy exploring the world of microcontrollers and embedded systems. I’ve also enjoyed my time while working with NLE/NLP and Computer Vision.
 🔍 I'm always curious about new tech trends and love experimenting with new tools and technologies. Let’s connect or collaborate on something exciting!</p>
 
-- 🔭 I’m currently working on **LLM web-app hosted on private server (AWS) with CI/CD pipeline**
+- 🔭 I’m currently working on **LLM RAG web-app hosted on private server (AWS) with CI/CD pipeline**
 
 - 🌱 I’m currently learning **MLOps and Data Engineering**
 
