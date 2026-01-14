@@ -1,9 +1,9 @@
 <h1 align="center">Hey👋 I'm Pavel</h1>
-<p align="center">🎓 I'm a Computer Science & AI graduate from the University of Sussex with a strong interest in Data Science, particularly when it involves sensory data and machine learning applications. </p>
-<p align="center">🍓 A proud Raspberry Pi enthusiast, I enjoy exploring the world of microcontrollers and embedded systems. I’ve also enjoyed my time while working with NLE/NLP and Computer Vision.
+<p align="center">🎓 I'm a Computer Science & AI graduate from the University of Sussex with a strong interest in Data Science, particularly when it involves sensory data, machine learning applications, or operations. </p>
+<p align="center">🍓 A proud Raspberry Pi and embedded systems enthusiast, I enjoy exploring the world of microcontrollers and embedded systems. I’ve also enjoyed my time while working with NLE/NLP and Computer Vision.
 🔍 I'm always curious about new tech trends and love experimenting with new tools and technologies. Let’s connect or collaborate on something exciting!</p>
 
-- 🔭 I’m currently working on **LLM RAG web-app hosted on private server (AWS) with CI/CD pipeline**
+- 🔭 I’m currently working on **end-to-end MLOps project where I deploy machine-learning models as FastAPI services, containerise them with Docker, and run them on AWS with proper automation. The focus is on making models production-ready rather than just training them**
 
 - 🌱 I’m currently learning **MLOps and Data Engineering**
 
