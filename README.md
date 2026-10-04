@@ -95,18 +95,12 @@ A data engineering project using NYC taxi trip data, implementing a Medallion Ar
 
 ### 🌱 Beyond the code
 
-Before moving into technology, I spent nearly a decade working as a professional chef. It taught me quite a bit about problem-solving, teamwork, working under pressure, and occasionally dealing with things being on fire.
+Before moving into technology, I spent nearly a decade working as a professional chef. It taught me quite a bit about problem-solving, teamwork, working under pressure, and occasionally dealing with things being on fire 🔥.
 
-When I'm not coding, you'll probably find me at the gym, reading science fiction, travelling, or experimenting with something new.
 
 ### 📫 Let's connect!
 
-I'm always happy to connect with other developers, exchange ideas, and explore opportunities to work on something interesting.
+I'm always happy to connect!
 
 💼 [LinkedIn](https://www.linkedin.com/in/pavel-jermolajev-767879265/)
 
----
-
-<p align="center">
-  <i>From developing dishes to developing software. The debugging process is surprisingly similar. 🍳</i>
-</p>
