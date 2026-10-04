@@ -1,19 +1,112 @@
-<h1 align="center">Hey👋 I'm Pavel</h1>
-<p align="center">🎓 I'm a Computer Science & AI graduate from the University of Sussex with a strong interest in Data Science, particularly when it involves sensory data, machine learning applications, or operations. </p>
-<p align="center">🍓 A proud Raspberry Pi and embedded systems enthusiast, I enjoy exploring the world of microcontrollers and embedded systems. I’ve also enjoyed my time while working with NLE/NLP and Computer Vision.
-🔍 I'm always curious about new tech trends and love experimenting with new tools and technologies. Let’s connect or collaborate on something exciting!</p>
 
-- 🔭 I’m currently working on **end-to-end MLOps project where I deploy machine-learning models as FastAPI services, containerise them with Docker, and run them on AWS with proper automation. The focus is on making models production-ready rather than just training them**
+<h1 align="center">Hey 👋 I'm Pavel!</h1>
 
-- 🌱 I’m currently learning **MLOps and Data Engineering**
+<p align="center">
+  🎓 First-Class Computer Science & AI graduate from the University of Sussex
+  <br/>
+  💻 Software Development | Machine Learning | Data Engineering
+  <br/>
+  📍 Brighton, UK
+</p>
 
-- 👯 I’m looking to collaborate on **LLM and MLOps projects, or projects involving medical data**
+---
 
-- 💬 Ask me about **numpy/PyTorch/TensorFlow, IoT**
+### 👨‍💻 A little about me
 
-- 📫 How to reach me **LinkedIn: https://www.linkedin.com/in/pavel-jermolajev-767879265/**
+I'm a developer who enjoys building things with code, data, and a healthy amount of curiosity.
 
-- ⚡ Fun fact **🐍 Pythons sleep up to 18 hours a day - so am I...**
+My main interests lie in **Machine Learning, Data Engineering, and Software Development**, particularly where these fields overlap. I enjoy working across the entire development lifecycle, from exploring data and training models to building APIs, developing user interfaces, and deploying applications to the cloud.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> </p>
+I'm also a Raspberry Pi and embedded systems enthusiast, with a particular interest in sensor data, IoT, and real-world applications of AI.
+
+I love experimenting with new technologies, figuring out how things work, and turning ideas into something people can actually use.
+
+### 🚀 What I'm up to
+
+- 🔭 **Currently building:** Kradoz, a professional networking platform, as part of a four-person development team that I lead.
+- 🧠 **Exploring:** LLMs, RAG architectures, AI agents, and practical applications of machine learning.
+- ☁️ **Developing my skills in:** MLOps, Data Engineering, cloud infrastructure, and production-ready ML systems.
+- 🤝 **Open to collaborating on:** AI/ML, data-driven applications, full-stack software, and projects involving healthcare or sensor data.
+- 🎯 **Career interests:** Software Engineering, ML Engineering, and Data & AI Engineering.
+
+### 🛠️ Featured projects
+
+**🤖 LLM-powered RAG Chatbot**
+
+An end-to-end retrieval-augmented generation application that allows users to interact with their documents using a locally hosted LLM.
+
+`Python` `LangChain` `FAISS` `Ollama` `Docker` `AWS EC2` `GitHub Actions`
+
+**⌚ Wearable Sensor Misalignment & Human Activity Recognition**
+
+My university dissertation investigated how sensor misalignment affects deep-learning-based Human Activity Recognition and explored its implications for wearable technology and chronic pain rehabilitation.
+
+`PyTorch` `TensorFlow` `ConvLSTM` `IMU Sensors` `BLE` `Python`
+
+**🤝 Kradoz — Professional Networking Platform**
+
+A team-developed business matchmaking application that connects professionals through mutual interest, personalised recommendations, and a double-consent matching system.
+
+`Next.js` `TypeScript` `React` `Supabase` `PostgreSQL`
+
+**🍡 Kumo Mochi — Full-Stack Business Website**
+
+A multilingual website for a dessert business, featuring a custom administration dashboard, authentication, image management, and database-driven content.
+
+`React` `JavaScript` `Supabase` `PostgreSQL` `Vercel`
+
+**📊 Azure Databricks Data Engineering Pipeline**
+
+A data engineering project using NYC taxi trip data, implementing a Medallion Architecture with Bronze, Silver, and Gold layers for data ingestion, transformation, and analytics.
+
+`Python` `PySpark` `Azure Databricks` `Delta Lake` `SQL`
+
+### 💻 Languages & Tools
+
+**Programming & Web Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,cs,cpp,react,nextjs,django,fastapi&perline=10" />
+</p>
+
+**Machine Learning & Data Science**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=10" />
+</p>
+
+`Pandas` `NumPy` `SciPy` `LangChain` `FAISS` `PySpark`
+
+**Cloud, Databases & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,postgres,supabase,git,githubactions,linux&perline=10" />
+</p>
+
+`Databricks` `Delta Lake` `MLflow` `CI/CD`
+
+**Embedded Systems & IoT**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=10" />
+</p>
+
+`BLE` `IMU Sensors` `Microcontrollers`
+
+### 🌱 Beyond the code
+
+Before moving into technology, I spent nearly a decade working as a professional chef. It taught me quite a bit about problem-solving, teamwork, working under pressure, and occasionally dealing with things being on fire.
+
+When I'm not coding, you'll probably find me at the gym, reading science fiction, travelling, or experimenting with something new.
+
+### 📫 Let's connect!
+
+I'm always happy to connect with other developers, exchange ideas, and explore opportunities to work on something interesting.
+
+💼 [LinkedIn](https://www.linkedin.com/in/pavel-jermolajev-767879265/)
+
+---
+
+<p align="center">
+  <i>From developing dishes to developing software. The debugging process is surprisingly similar. 🍳</i>
+</p>
