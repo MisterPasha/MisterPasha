@@ -23,11 +23,11 @@ I love experimenting with new technologies, figuring out how things work, and tu
 
 ### 🚀 What I'm up to
 
-- 🔭 **Currently building:** Kradoz, a professional networking platform, as part of a four-person development team that I lead.
+- 🔭 **Currently building:** Hi5, a professional networking platform, as part of a four-person development team.
 - 🧠 **Exploring:** LLMs, RAG architectures, AI agents, and practical applications of machine learning.
-- ☁️ **Developing my skills in:** MLOps, Data Engineering, cloud infrastructure, and production-ready ML systems.
+- ☁️ **Developing my skills in:** MLOps, Data Engineering, and cloud infrastructure.
 - 🤝 **Open to collaborating on:** AI/ML, data-driven applications, full-stack software, and projects involving healthcare or sensor data.
-- 🎯 **Career interests:** Software Engineering, ML Engineering, and Data & AI Engineering.
+- 🎯 **Career interests:** Data & AI Engineering, ML Engineering, and Software Engineering.
 
 ### 🛠️ Featured projects
 
@@ -43,7 +43,7 @@ My university dissertation investigated how sensor misalignment affects deep-lea
 
 `PyTorch` `TensorFlow` `ConvLSTM` `IMU Sensors` `BLE` `Python`
 
-**🤝 Kradoz — Professional Networking Platform**
+**🤝 Hi5 — Professional Networking Platform**
 
 A team-developed business matchmaking application that connects professionals through mutual interest, personalised recommendations, and a double-consent matching system.
 
